@@ -51,8 +51,7 @@ Welcome to my GitHub! I'm **Shahnaz Bibi**, a passionate backend developer and M
 
 #### 📫 Let's Connect
 - 📍 Vehari, Pakistan  
-- 📧 [shanzariaz5656@gmail.com](mailto:shanzariaz5656@gmail.com)  
-- 📞 0314-7979556  
+- 📧 [shanzariaz5656@gmail.com](mailto:shanzariaz5656@gmail.com)    
 - 🔗 [GitHub](https://github.com/Shanzariaz56) | [LinkedIn](https://linkedin.com/in/shahnaz-bibi-223201290)
 
 ---
