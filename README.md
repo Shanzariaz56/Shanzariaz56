@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm **Shahnaz Bibi**, a passionate backend developer and M
 
 #### 👩‍💻 About Me
 - 🧠 **Django Backend Developer & Machine Learning Intern**
-- 🎓 **CS Undergraduate** | COMSATS Vehari | (09/2021 – 06/2025)
 - 🔭 Currently working on a **Final Year Project**: Project Allocation & Evaluation System (Django + React) based on **NCEAC rules**
 - 🌱 Learning more about **LLMs**, **Prompt Engineering**, and **Real-world ML Deployment**
 - 👯 Looking to collaborate on **backend + AI integration** projects
@@ -29,13 +28,14 @@ Welcome to my GitHub! I'm **Shahnaz Bibi**, a passionate backend developer and M
 #### 💼 Tech Stack
 
 **Languages & Frameworks:**  
-`Python` `Django` `React` `HTML5` `CSS3` `SQL`
+`Python` `Django` `AI` `Machine Learning` `React` `HTML5` `CSS3` `SQL`
 
-**Machine Learning & AI:**  
+**Machine Learning & AI Tools:**  
 `scikit-learn` `YOLOv8` `OpenAI API` `Prompt Engineering` `ChromaDB` `LLMs` `RAG`
 
 **Tools & Platforms:**  
-`Git` `GitHub` `PostgreSQL` `Jupyter Notebook` `VS Code` `Google Colab`
+`Git` `GitHub` `PostgreSQL` `Jupyter Notebook` `VS Code` `Google Colab` `SQL` 
+
 
 ---
 
