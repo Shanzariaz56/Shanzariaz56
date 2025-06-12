@@ -1,14 +1,17 @@
 ### 🌟 Shahnaz Bibi | Python Developer & Machine Learning Enthusiast
 
-Welcome to my GitHub! I'm **Shahnaz Bibi**, a passionate backend developer and ML engineer in the making. Currently pursuing a **Bachelor's in Computer Science at COMSATS University, Islamabad (Vehari Campus)**, I specialize in **Python, Django, FastAPI**, and **Machine Learning** with hands-on internship experience and personal projects that bridge the gap between theory and real-world application.
+Welcome to my GitHub! I'm **Shahnaz Bibi**, a passionate backend developer and ML engineer in the making. Currently pursuing a **Bachelor's in Computer Science at COMSATS University, Islamabad (Vehari Campus)**, I specialize in **Python, Django**, and **Machine Learning** with hands-on internship experience and personal projects that bridge the gap between theory and real-world application.
 
 ---
 
 #### 👩‍💻 About Me
 - 🧠 **Django Backend Developer & Machine Learning Intern**
 - 🎓 **CS Undergraduate** | COMSATS Vehari | (09/2021 – 06/2025)
-- 🛠️ Backend Development with Django & FastAPI | AI Applications using ML & LLMs
-- 🔍 Skilled in: Python, PostgreSQL, YOLOv8, RAG, OpenAI API, ChromaDB
+- 🔭 Currently working on a **Final Year Project**: Project Allocation & Evaluation System (Django + React) based on **NCEAC rules**
+- 🌱 Learning more about **LLMs**, **Prompt Engineering**, and **Real-world ML Deployment**
+- 👯 Looking to collaborate on **backend + AI integration** projects
+- 💬 Ask me about **Django**, **Python**, **ML models**, or **LLMs**
+- 📫 Reach me at: [shanzariaz5656@gmail.com](mailto:shanzariaz5656@gmail.com)
 
 ---
 
@@ -23,13 +26,26 @@ Welcome to my GitHub! I'm **Shahnaz Bibi**, a passionate backend developer and M
 
 ---
 
-#### 🧠 Skills
+#### 💼 Tech Stack
+
+**Languages & Frameworks:**  
+`Python` `Django` `React` `HTML5` `CSS3` `SQL`
+
+**Machine Learning & AI:**  
+`scikit-learn` `YOLOv8` `OpenAI API` `Prompt Engineering` `ChromaDB` `LLMs` `RAG`
+
+**Tools & Platforms:**  
+`Git` `GitHub` `PostgreSQL` `Jupyter Notebook` `VS Code` `Google Colab`
+
+---
+
+#### 🧠 Skills Summary
 - **Programming:** Python, SQL
-- **Frameworks:** Django, FastAPI
+- **Frameworks:** Django, React
 - **ML Tools:** scikit-learn, YOLOv8, OpenAI API
 - **Databases:** PostgreSQL, ChromaDB
-- **Concepts:** RAG, LLMs, Prompt Engineering
-- **Other:** Git, GitHub, Microsoft Office
+- **Concepts:** RAG, Prompt Engineering, LLMs
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
 
 ---
 
@@ -42,6 +58,6 @@ Welcome to my GitHub! I'm **Shahnaz Bibi**, a passionate backend developer and M
 ---
 
 #### ✨ GitHub Highlights
-- 🔥 Currently working on AI-powered applications.
-- 📚 Regular contributor to open-source and self-learning projects.
-- 💼 Actively seeking internship opportunities in Python/ML-based roles.
+- 🔥 Currently working on AI-powered and backend web applications.
+- 📚 Regular contributor to open-source and personal learning projects.
+- 💼 Actively seeking internship opportunities in Python/Django/ML roles.
